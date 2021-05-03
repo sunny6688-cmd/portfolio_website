@@ -1,0 +1,53 @@
+.navitem{
+    font-size: 1rem;
+    text-align: right;
+}
+
+.name{
+    font-size: 3.5rem;
+    font-weight: 900;
+}
+.qualification{
+    font-size: 1.2rem;
+}
+/* .topheading{
+
+} */
+.introheading{
+    width: 700px;
+    height: 220px;
+}
+.institute{
+    font-size: 1.5rem;
+}
+
+.occupation{
+    font-size: 2rem;
+    font-weight: 600;
+}
+
+.myinfo{
+    text-align: center;
+}
+
+.details{
+    font-size: 1.2rem;
+}
+
+.projectpara{
+    font-size: 1.2rem;
+}
+
+.hometext{
+    font-size: 1.2rem;
+}
+
+.projecttitle{
+    font-size: 1.5rem;
+}
+
+.mainheading{
+    text-align: center;
+    font-size: 2rem;
+    font-weight: bold;
+}
