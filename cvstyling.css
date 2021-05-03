@@ -10,9 +10,9 @@
 .qualification{
     font-size: 1.2rem;
 }
-/* .topheading{
-
-} */
+.topheading{
+    background-image: url("/images/techimage.jpg");
+}
 .introheading{
     width: 700px;
     height: 220px;
