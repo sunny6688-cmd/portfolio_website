@@ -1,53 +1,55 @@
-.navitem{
-    font-size: 1rem;
-    text-align: right;
+* {
+    color: white;
 }
-
-.name{
-    font-size: 3.5rem;
-    font-weight: 900;
+.navitem{
+    color: white;
+    font-size: 18px;
+    text-align: right;
+    padding-right: 10px;
+    padding-top: 5px;
+}
+.card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    max-width: 300px;
+    margin: auto;
+    text-align: center;
+}
+  
+.title {
+color: whitesmoke;
+font-size: 18px;
 }
 .qualification{
     font-size: 1.2rem;
 }
-.topheading{
-    background-image: url("/images/techimage.jpg");
-}
-.introheading{
-    width: 700px;
-    height: 220px;
+.mainbody {
+    color: white;
+    background-image: url(/images/pexels-adrien-olichon-2931286.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding-right: 16px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    padding-left: 10px;
 }
 .institute{
-    font-size: 1.5rem;
+    font-size: 24px;
 }
-
-.occupation{
-    font-size: 2rem;
-    font-weight: 600;
-}
-
 .myinfo{
     text-align: center;
 }
-
-.details{
-    font-size: 1.2rem;
-}
-
-.projectpara{
-    font-size: 1.2rem;
-}
-
-.hometext{
-    font-size: 1.2rem;
-}
-
 .projecttitle{
-    font-size: 1.5rem;
+    font-size: 26px;
 }
-
+p, li{
+    font-size: 20px;
+    padding-left: 20px;
+}
 .mainheading{
+    font-style: italic;
     text-align: center;
-    font-size: 2rem;
+    font-size: 30px;
     font-weight: bold;
+    padding-left: 5px;
 }
