@@ -5,6 +5,9 @@
     padding-right: 10px;
     padding-top: 5px;
 }
+a{
+    color: white;
+}
 .card {
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
     max-width: 300px;
@@ -21,7 +24,7 @@ font-size: 18px;
 }
 .mainbody {
     color: white;
-    background-image: url(/images/pexels-adrien-olichon-2931286.jpg);
+    background-image: url(/images/pexels-philippe-donn-1257860.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
