@@ -1,11 +1,10 @@
 body {
     margin: 0;
     font-family: "Nunito Sans",sans-serif;
-    background-color: #f6f8fa;
-    -webkit-tap-highlight-color: transparent;
+    background-color: black;
 }
 .card {
-    box-shadow: 0 10px 15px 0 rgba(0, 0, 0, 0.2);
+    box-shadow: 0 10px 15px 0 rgb(241, 238, 238);
     background-color:whitesmoke;
     max-width: 250px;
     margin: auto;
@@ -15,15 +14,6 @@ body {
     color: black;
     font-size: 18px;
     padding-bottom: 10px;
-}
-/* .content-list {
-    max-width: 1200px;
-    margin: 0 auto;
-    padding: 50px 25px;
-    background-color: #fff;
-} */
-.main-body-box {
-    background-color: gainsboro;
 }
 .main-grid{
     display: grid;
@@ -35,7 +25,7 @@ body {
     padding-left: 25px;
 }
 .main-grid a{
-    background-color: white;
+    background-color: #fff;
 }
 .option-box {
     width: 100%;
@@ -43,10 +33,6 @@ body {
     overflow: hidden;
     background-color: #fff; 
     border: 1px solid rgba(0,0,0,.07);
-    transition: all .15s ease-in-out;
-}
-.option-box:rover .option-box{
-    background-color: hotpink;
 }
 .option-box-boundary {
     position: relative;
@@ -60,7 +46,6 @@ body {
     width: calc(100% - 100px);
     height: calc(100% - 90px);
     padding: 40px 50px;
-    transition: .3s ease-in-out;
 }
 .option-image img{
     display: block;
@@ -68,6 +53,7 @@ body {
     height: 100%;
 }
 .content-detail {
+    background-color: red;
     padding: 15px 10px;
     color: #406cbf;
     font-size: 20px;
